@@ -21,6 +21,7 @@ A command-line application to manage daily tasks.
 ### Task 2: Calculator
 A simple command-line calculator that performs basic arithmetic operations.
 
+
 **Features:**
 - Addition
 - Subtraction
